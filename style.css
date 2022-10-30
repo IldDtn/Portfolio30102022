@@ -159,8 +159,14 @@ h3 {
   padding-top: 30px;
   padding-bottom: 5px;
   color:white;
-  background-color: rgba(000, 000, 000, 0.7)
+  background-color: rgba(000, 000, 000, 0.7);
 }
+
+h3 a {
+  text-decoration: none;
+  color: white;
+}
+
 h6 {
   margin: 0;
 }
