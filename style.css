@@ -21,6 +21,9 @@ header nav a {
   padding: 10px;
   color: black;
 }
+header nav a:hover {
+  color: rgb(245, 177, 177);
+}
 
 .hero-banner {
   display: flex;
@@ -165,6 +168,10 @@ h3 {
 h3 a {
   text-decoration: none;
   color: white;
+}
+
+h3 a:hover {
+  color: rgb(245, 177, 177) ;
 }
 
 h6 {
