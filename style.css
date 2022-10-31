@@ -193,7 +193,10 @@ p {
   .page-section1 {
     display: flex;
     flex-direction: column;
-    margin-bottom: 300px;
+    margin-bottom: 400px;
+  }
+  .detail {
+    margin-bottom: 100px;
   }
 
   #aboutme {
@@ -204,6 +207,10 @@ p {
     margin-top: 30px;
   }
 
+  .ab {
+    justify-self: center;
+  }
+ 
   .page-section2 {
     display: flex;
     flex-direction: column;
@@ -224,7 +231,7 @@ p {
     .page-section1 {
       display: flex;
       flex-direction: column;
-      margin-bottom: 350px;
+      margin-bottom: 400px;
 
     }
     
@@ -245,7 +252,7 @@ p {
     .page-section1 {
       display: flex;
       flex-direction: column;
-      margin-bottom: 400px;
+      margin-bottom: 500px;
     }
   }
 
@@ -253,7 +260,7 @@ p {
     .page-section1 {
       display: flex;
       flex-direction: column;
-      margin-bottom: 480px;
+      margin-bottom: 550px;
     }
 
     h1 {
@@ -272,7 +279,7 @@ p {
   .page-section1 {
     display: flex;
     flex-direction: column;
-    margin-bottom: 550px;
+    margin-bottom: 600px;
   }
 
 
