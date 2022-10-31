@@ -59,6 +59,7 @@ header nav a:hover {
   margin-left: 2%;
   margin-right: 2%;
   margin-top: 150px;
+  margin-bottom: 80px;
   height: 700px;
   column-gap: 20px;
   row-gap: 20px;
@@ -149,6 +150,7 @@ header nav a:hover {
   row-gap: 5px;
   justify-content: start;
   margin-top: 30px;
+  padding-bottom: 30px;
 }
 
   .contact {
@@ -190,7 +192,7 @@ p {
   #aboutme {
     border-color: white
   }
-  
+
   .page-section3 {
     display: flex;
     margin-left: 2%;
